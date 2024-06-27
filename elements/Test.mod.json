@@ -1,0 +1,9 @@
+{
+  "_fv": 60,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "NONE",
+    "keyBindingName": "Test",
+    "keyBindingCategoryKey": "misc"
+  }
+}
